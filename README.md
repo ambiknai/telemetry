@@ -7,5 +7,7 @@ Cloud telemetry for storage involves monitoring and analyzing data related to st
 
 
 
+
+
 ![telemetry](https://github.com/ambiknai/telemetry/assets/16678376/caf50499-c5a9-49bb-806d-5927f660a8c4)
 
